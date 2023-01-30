@@ -4,3 +4,8 @@
 
 # Setting up the environment
 
+Run in bash
+
+```bash
+source ./bin/activate.sh
+```
